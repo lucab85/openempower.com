@@ -1,24 +1,25 @@
-email: 'example@example.com'
-phone: 'XXXX XXX XXX'
+email: 'info@openempower.com'
+phone: '+31 612255399'
 businessName: 'Hugo Serif'
 address: |
-  123 Some Street
-  City, State 12345
+  Kerkstraat 121 F
+  1017 GE Amsterdam
+  The Netherlands
 hours:
   - day: Monday
-    open: 8:30am
+    open: 9:00am
     close: 5:00pm
   - day: Tuesday
-    open: 8:30am
+    open: 9:00am
     close: 5:00pm
   - day: Wednesday
-    open: 8:30am
+    open: 9:00am
     close: 5:00pm
   - day: Thursday
-    open: 8:30am
+    open: 9:00am
     close: 5:00pm
   - day: Friday
-    open: 8:30am
+    open: 9:00am
     close: 5:00pm
   - day: Saturday
     open: Closed

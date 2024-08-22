@@ -1,6 +1,6 @@
 baseURL = "https://www.openempower.com/"
 languageCode = "en-us"
-title = "Open Empower IT Consultancy"
+title = "Open Empower IT Services and IT Consulting"
 theme = "hugo-hero-theme"
 
 [module]
@@ -37,7 +37,7 @@ theme = "hugo-hero-theme"
     weight = 1
 
 [[menu.main]]
-    name = "Projects"
+    name = "Work"
     url = "/work/"
     weight = 2
 
