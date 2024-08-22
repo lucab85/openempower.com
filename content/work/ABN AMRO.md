@@ -1,5 +1,7 @@
 ---
-title: 'Advanced Automation for Financial Services'
+title: 'Advanced Automation for ABN AMRO'
+subtitle: 'Discover how automation with Ansible and Azure enhances efficiency at ABN AMRO Bank.'
+description: "Explore Luca Berton's innovative automation solutions for ABN AMRO, driving efficiency with Ansible and Azure Pipeline for financial services."
 date: 2024-08-22T10:00:00+00:00
 draft: false
 weight: 2
