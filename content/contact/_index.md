@@ -5,4 +5,4 @@ description: 'Reach out to OpenEmpower for expert IT consultancy and a free cons
 date: 2024-08-22T10:00:00+00:00
 ---
 
-We offer a free consultation for all new clients.
+We offer a free 15-minute consultation for all new clients.
