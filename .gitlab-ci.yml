@@ -1,0 +1,20 @@
+image: alpine:latest
+
+before_script:
+  - apk update && apk add openssl ca-certificates nodejs npm hugo
+  - hugo version
+#  - PATH=$(npm bin):$PATH
+
+cache:
+  paths:
+    - node_modules/
+
+pages:
+  script:
+  - npm install
+  - HUGO_ENV=production hugo --minify
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
