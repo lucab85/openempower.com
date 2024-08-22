@@ -4,7 +4,6 @@ date: 2024-08-22T10:00:00+00:00
 icon: 'services/service-icon-4.png'
 draft: false
 featured: true
-weight: 3
 heroHeading: 'Kubernetes & Containerization Workshops'
 heroSubHeading: 'Hands-on workshops and management of Kubernetes, Docker, and cloud-native applications for scalable infrastructure.'
 heroBackground: 'services/service2.jpg'

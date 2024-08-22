@@ -6,4 +6,5 @@ button: 'About Us'
 buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+At OpenEmpower, we deliver innovative solutions, tailored to your needs, ensuring optimal performance and sustainability. We prioritize efficiency, expertise, and excellence.
+	

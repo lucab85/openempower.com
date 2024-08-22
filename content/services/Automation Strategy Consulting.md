@@ -4,7 +4,6 @@ date: 2024-08-22T10:00:00+00:00
 icon: 'services/service-icon-1.png'
 draft: false
 featured: true
-weight: 2
 heroHeading: 'Automation Strategy Consulting'
 heroSubHeading: 'Design and implement efficient automation strategies using Ansible, Terraform, and Python to optimize workflows.'
 heroBackground: 'services/service1.jpg'
