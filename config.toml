@@ -28,8 +28,8 @@ theme = "hugo-hero-theme"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
     meta_og_description = "Expert IT consulting services tailored to empower your business. Specializing in cloud, cybersecurity, and digital transformation."
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@ansiblepilot"
+    meta_twitter_creator = "@ansiblepilot"
 
 [[menu.main]]
 	name = "Services"
@@ -37,7 +37,7 @@ theme = "hugo-hero-theme"
     weight = 1
 
 [[menu.main]]
-    name = "Work"
+    name = "Projects"
     url = "/work/"
     weight = 2
 
