@@ -2,7 +2,7 @@
 title: 'No Limits'
 date: 2024-08-22T10:00:00+00:00
 weight: 1
-background: 'https://source.unsplash.com/zglUlG8k47I/1600x500'
+background: '/images/Jump_1600x1065.jpg'
 align: right
 ---
 

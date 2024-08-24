@@ -1,6 +1,6 @@
 baseURL = "https://www.openempower.com/"
 languageCode = "en-us"
-title = "Open Empower IT Services and IT Consulting"
+title = "OpenEmpower IT Services and IT Consulting"
 theme = "hugo-hero-theme"
 
 [module]

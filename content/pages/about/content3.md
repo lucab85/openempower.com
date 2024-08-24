@@ -2,7 +2,7 @@
 title: 'Giving Back'
 weight: 3
 date: 2024-08-22T10:00:00+00:00
-background: ''
+background: '/images/Stones_1600x1067.jpg'
 align: right
 button: 'Contact Us'
 buttonLink: 'contact'
