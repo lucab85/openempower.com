@@ -9,7 +9,7 @@ theme = "hugo-hero-theme"
     min = "0.92.0"
     
 [params]
-  google_analytics_id=""
+  google_analytics_id="G-77NY6462EC"
 
   [params.logo]
     mobile = "images/logo-mobile.png"
