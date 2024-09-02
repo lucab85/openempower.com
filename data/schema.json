@@ -4,7 +4,7 @@
         {
             "@type": "Organization",
             "@id": "https://openempower.com/#organization",
-            "name": "Luca Berton",
+            "name": "Open Empower",
             "url": "https://openempower.com",
             "sameAs": [
                 "https://twitter.com/ansiblepilot",
