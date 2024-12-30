@@ -1,0 +1,39 @@
+name: Build and Deploy Hugo
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Alpine container
+      uses: addnab/docker-run-action@v3
+      with:
+        image: alpine:latest
+        options: --workdir /github/workspace
+        run: |
+          apk update && apk add openssl ca-certificates nodejs npm hugo
+          hugo version
+
+    - name: Install dependencies
+      run: |
+        npm install
+
+    - name: Build site
+      env:
+        HUGO_ENV: production
+      run: |
+        hugo --minify
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
