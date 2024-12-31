@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on OpenEmpower IT Services and IT Consulting</title>
+    <link>http://localhost:1313/work/</link>
+    <description>Recent content in Projects on OpenEmpower IT Services and IT Consulting</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Aug 2024 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced Automation for ABN AMRO</title>
+      <link>http://localhost:1313/work/abn-amro/</link>
+      <pubDate>Thu, 22 Aug 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/work/abn-amro/</guid>
+      <description>&lt;p&gt;Luca Berton, an experienced IT consultant, recently led a significant automation project at ABN AMRO Bank, focusing on integrating Ansible Automation Platform with Azure Pipeline. Managing 85,000 resources, Luca&amp;rsquo;s expertise in Ansible, Bicep, and ARM templates allowed the bank to streamline its operations, enhancing efficiency and reducing operational risks.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-challenge&#34;&gt;The Challenge&lt;/h3&gt;&#xA;&lt;p&gt;ABN AMRO Bank required a robust solution to manage its extensive infrastructure, which involved a complex web of resources across multiple environments. The existing processes were manual and time-consuming, increasing the risk of errors and operational delays. The bank needed an automation strategy that could seamlessly integrate with its cloud environments and scale with its growing infrastructure needs.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
